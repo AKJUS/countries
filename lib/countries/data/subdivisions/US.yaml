@@ -302,8 +302,8 @@ AS:
   unofficial_names:
   - American Samoa
   geo:
-    latitude: 21.3239718
-    longitude: -157.876498
+    latitude: -14.270972
+    longitude: -170.132217
   translations:
     en: American Samoa
     ccp: "𑄃𑄟𑄬𑄢𑄨𑄇𑄚𑄴 𑄥𑄪𑄟𑄮𑄠"
@@ -1093,8 +1093,8 @@ GU:
   unofficial_names:
   - Guam
   geo:
-    latitude: 36.90194
-    longitude: -89.82361
+    latitude: 13.444304
+    longitude: 144.793731
   translations:
     en: Guam
     ccp: "𑄉𑄪𑄠𑄟𑄴"
@@ -3874,8 +3874,8 @@ PR:
   unofficial_names:
   - Puerto Rico
   geo:
-    latitude: 32.7290818
-    longitude: -117.1517016
+    latitude: 18.220833
+    longitude: -66.590149
   translations:
     en: Puerto Rico
     ccp: "𑄛𑄮𑄢𑄴𑄑𑄮 𑄢𑄨𑄇𑄮"
@@ -4598,8 +4598,8 @@ VI:
   unofficial_names:
   - Virgin Islands, U.S.
   geo:
-    latitude: 33.8569878
-    longitude: -84.5904089
+    latitude: 18.335765
+    longitude: -64.896335
   translations:
     en: U.S. Virgin Islands
     ccp: "𑄃𑄨𑄅𑄪. 𑄃𑄬𑄌𑄴 𑄞𑄢𑄴𑄎𑄨𑄚𑄴 𑄃𑄨𑄌𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴"
